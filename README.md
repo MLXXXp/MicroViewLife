@@ -10,6 +10,8 @@ An implementation of Conway's Game of Life, a cellular automation, for the GeekA
 
 Each pixel is a cell. Only the torus type finite grid is implemented (the left edge joins to the right edge and top edge joins to the bottom edge).
 
+[Video on YouTube](https://youtu.be/T_lzKb50Rug)
+
 ## Usage
 
 Although it will run with no additional components, it's best to have at least one push-button, which starts a new game with a random pattern. Three additional push-buttons are supported to decrease the speed, increase the speed, and replay the game with the same starting pattern. With no buttons attached it just uses the start-up text as the starting pattern (which turns out to be a pretty good one).
